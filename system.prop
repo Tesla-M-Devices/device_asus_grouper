@@ -43,3 +43,5 @@ ro.adb.secure=0
 ro.debuggable=1
 persist.sys.usb.config=mtp,adb
 
+# disable PRISM by default
+persist.tegra.didim.enable=0
