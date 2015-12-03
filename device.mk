@@ -16,7 +16,6 @@
 
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.carrier=wifi-only \
-    ro.config.low_ram=true
 
 PRODUCT_COPY_FILES := \
     device/asus/grouper/fstab.grouper:root/fstab.grouper \
