@@ -15,7 +15,7 @@
 #
 
 PRODUCT_PROPERTY_OVERRIDES := \
-    ro.carrier=wifi-only \
+    ro.carrier=wifi-only
 
 PRODUCT_COPY_FILES := \
     device/asus/grouper/fstab.grouper:root/fstab.grouper \
