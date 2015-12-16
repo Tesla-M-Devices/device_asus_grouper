@@ -41,5 +41,5 @@ persist.sys.use_16bpp_alpha=0
 #debug flags
 ro.adb.secure=0
 ro.debuggable=1
-persist.service.adb.enable=1
 persist.sys.usb.config=mtp,adb
+
