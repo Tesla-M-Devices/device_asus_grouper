@@ -36,4 +36,10 @@ ro.config.max_starting_bg=3
 persist.android.strictmode=0
 
 # 16bit Transparency
-persist.sys.use_16bpp_alpha=1
+persist.sys.use_16bpp_alpha=0
+
+#debug flags
+ro.adb.secure=0
+ro.debuggable=1
+persist.service.adb.enable=1
+persist.sys.usb.config=mtp,adb
